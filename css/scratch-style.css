@@ -1,0 +1,40 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  .hero {
+    background-color: #d8e3f2;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .lists {
+    margin: 20px;
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #ccc;
+  }
+  
+  .image-section img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .anchor-section {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #eef;
+    border-left: 6px solid #88a;
+  }
+  
+  #footer {
+    text-align: center;
+    font-size: 0.9em;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #ddd;
+  }
+  
